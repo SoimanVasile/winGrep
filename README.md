@@ -1,6 +1,6 @@
 # WinGrep 🚀
 
-##Right now it's still in progress and the only feature is for a plain text, but im working to add more features
+## Right now it's still in progress and the only feature is for a plain text, but im working to add more features
 
 A blazing fast, multi-threaded, recursive command-line search tool built in Rust.
 
@@ -29,11 +29,11 @@ The executable will be located in `target/release/wingrep` (or `wingrep.exe` on 
 
 ## 🛠 Usage
 
+## Right now is not available about the directory and path, but im working on this
 ```bash
 # Basic search in a single file
 wingrep "search_term" filename.txt
 
-## Right now is not available about the directory and path, but im working on this
 # Recursive search in a directory
 wingrep -r "TODO" ./src
 
