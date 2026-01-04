@@ -1,0 +1,9 @@
+/target/
+
+huge_test_file.txt
+
+.idea/
+.vscode/
+*.swp
+*.iml
+.DS_Store
